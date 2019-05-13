@@ -1,0 +1,30 @@
+Quelle est la nature du mot "ordinateur" ?;   un adjectif;    un sujet;  un nom commum;3
+Quelle est la nature du mot "jouer" ?;   un adverbe;    un verbe;   un adjectif;2
+Comment s'accorde "un bocal" au pluriel ?;   des bocaux;   des bocals;   des bocaus;1
+Comment s'accorde "un festival" au pluriel ?;  des festivaux;  des festivals;  des festivaux;2
+Quelle est la congugaison de manger à la 3e personne du singulier ?;   il mangeais;   il mangait;   il mangeait;3
+Quelle est la conjugaison de chanter à la 1e personne du singulier ?;    je chante;   je chantes;   je chantais;1
+Comment est ce jeu ? Est-ce...;   le meileure;  le meilleure;   le meilleur;3
+Qui est surnommé le roi soleil ?;    Louis XIV;    Louis XVI;   Louis XVIII;1
+Qui est lié à l'histoire du vase de Soissons ?;   Jules César;   Charlemagne;     Clovis;3
+Quelle est la date de la prise de la Bastille ?;  28 juin 1914;21 septembre 1792; 14 juillet 1789;3
+Où se situe la ville de Rome ?;     Espagne;     Italie;    Portugal;2
+Où se situe la plus haute montagne de France ?;      Alpes;      Jura;    Pyrénées;1
+Quelle est la capitale de l'Allemagne ?;    Bruxelles;      Berne;     Berlin;3
+Qui est l'actuel président de la République ?;   F.Hollande;    E.Macron;     M.LePen;2
+Combien le corps humain possède-t-il d'os ?;       206;       256;       316;1
+Combien y-a-t-il de planètes dans le système solaire ?;   8 planètes;   9 planètes;   10 planètes;1
+Comment sont nommées les planètes après Mars ?;     Grosses;     Géantes;    Gazeuses;3
+Comment désigne-t-on un volcan qui n'entrera plus en éruption ?;     Endormi;     Éteint;      Mort;2
+Quelle est la forme montrant le plus la lune parmi les trois ?;    Quartier;    Croissant;    Gibbeuse;3
+Que devient de l'eau à l'état solide ?;      Buée;      Glace;  Vapeur d'eau;2
+Combien vaut la fraction 2/4 ?;      0,25;       0,5;       0,6;2
+Quel est le plus grand nombre ?;      10,6;     10,688;      10,68;2
+Quel est le plus grand nombre ?;      3,14;     3,1395;       3,1;1
+Combien de côtés possède un octogone ?;     5 côtés;     6 côtés;     8 côtés;3
+Combien de côtés possède un losange ?;     3 côtés;     4 côtés;     6 côtés;2
+Combien font 55 + 78 ?;       121;       123;       133;3
+Combien font 62 - 27 ?;       35;        37;        45;1
+Avec quel outil trace-t-on un cercle ?;    un compas;   une équerre;  un rapporteur;1
+Avec quel outil trace-t-on un angle droit ?;    un compas;   une équerre;  un rapporteur;2
+Quelle est la réponse à la vie ?;       42;       100;      1764;1
